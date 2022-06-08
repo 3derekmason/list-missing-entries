@@ -1,5 +1,5 @@
 {
-  "name": "listmissingentries",
+  "name": "list-missing-entries",
   "version": "1.0.0",
   "description": "List potentially missing data fields",
   "main": "index.js",
